@@ -1,6 +1,7 @@
 package ejercicio4mocksStatic;
 
-import ejercicio3mocks.ValidatorUtil;
+import ejercicio3static.ValidatorStatic;
+
 
 public class Nota2 {
 
